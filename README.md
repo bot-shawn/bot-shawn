@@ -1,6 +1,5 @@
 ## Hi there 👋
-I am a University of California, San Diego Student
-/nMajoring in Cognitive Science, Design and Interaction
+I am a University of California, San Diego Student< br / > Majoring in Cognitive Science, Design and Interaction
 <!--
 **bot-shawn/bot-shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
