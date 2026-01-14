@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a University of California, San Diego student
 <!--
 **bot-shawn/bot-shawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
